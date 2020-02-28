@@ -1,0 +1,3 @@
+D:/Courses/proj/graphicsLap1/cmake-build-debug/CMakeFiles/graphicsLap1.dir
+D:/Courses/proj/graphicsLap1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Courses/proj/graphicsLap1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
